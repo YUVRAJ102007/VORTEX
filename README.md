@@ -1,4 +1,4 @@
-# 🛡️ ZARIAA – AI-Powered Medicine Verification System
+# VORTEX – AI-Powered Medicine Verification System
 
 ## 🚨 Problem Statement
 
